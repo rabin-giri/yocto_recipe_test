@@ -1,4 +1,4 @@
-//this program is just for yocto recipe test . this is very basic program to this hello world
+//this program is just for yocto recipe test . this is very basic program just write for simple recipe test
 #include<stdio.h>
 
 int main()
